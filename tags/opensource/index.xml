@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opensource on miraglobal</title>
-    <link>http://miraglobal.com/tags/opensource/</link>
+    <link>https://timbuktuvariance.github.io/tags/opensource/</link>
     <description>Recent content in Opensource on miraglobal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 May 2018 10:56:21 +0000</lastBuildDate>
     
-	<atom:link href="http://miraglobal.com/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://timbuktuvariance.github.io/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>references</title>
-      <link>http://miraglobal.com/posts/references/</link>
+      <link>https://timbuktuvariance.github.io/posts/references/</link>
       <pubDate>Mon, 14 May 2018 10:56:21 +0000</pubDate>
       
-      <guid>http://miraglobal.com/posts/references/</guid>
+      <guid>https://timbuktuvariance.github.io/posts/references/</guid>
       <description>Baratta, N. C. (2017). Sharing America’s code. Retrieved May 7, 2018, from https://opensource.com/article/17/5/sharing-americas-code
 Bellville, R. (1999). Linux in Schools | Linux Journal. Retrieved May 9, 2018, from https://www.linuxjournal.com/article/2955
 Booker, E. (2013). 3 Reasons Linux Doesn’t Star In U.S. Schools. Retrieved May 9, 2018, from https://www.informationweek.com/education/campus-infrastructure/3-reasons-linux-doesnt-star-in-us-school/240155736

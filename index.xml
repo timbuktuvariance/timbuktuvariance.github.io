@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>miraglobal</title>
-    <link>http://miraglobal.com/</link>
+    <link>https://timbuktuvariance.github.io/</link>
     <description>Recent content on miraglobal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 May 2018 10:56:21 +0000</lastBuildDate>
     
-	<atom:link href="http://miraglobal.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://timbuktuvariance.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>references</title>
-      <link>http://miraglobal.com/posts/references/</link>
+      <link>https://timbuktuvariance.github.io/posts/references/</link>
       <pubDate>Mon, 14 May 2018 10:56:21 +0000</pubDate>
       
-      <guid>http://miraglobal.com/posts/references/</guid>
+      <guid>https://timbuktuvariance.github.io/posts/references/</guid>
       <description>Baratta, N. C. (2017). Sharing America’s code. Retrieved May 7, 2018, from https://opensource.com/article/17/5/sharing-americas-code
 Bellville, R. (1999). Linux in Schools | Linux Journal. Retrieved May 9, 2018, from https://www.linuxjournal.com/article/2955
 Booker, E. (2013). 3 Reasons Linux Doesn’t Star In U.S. Schools. Retrieved May 9, 2018, from https://www.informationweek.com/education/campus-infrastructure/3-reasons-linux-doesnt-star-in-us-school/240155736
@@ -26,10 +26,10 @@ Dawson, C. (n.</description>
     
     <item>
       <title>About</title>
-      <link>http://miraglobal.com/about/</link>
+      <link>https://timbuktuvariance.github.io/about/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
-      <guid>http://miraglobal.com/about/</guid>
+      <guid>https://timbuktuvariance.github.io/about/</guid>
       <description>Contact using this form,
 Your name \*Your email \*Your message for me \* </description>
     </item>
