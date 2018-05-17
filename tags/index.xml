@@ -6,10 +6,19 @@
     <description>Recent content in Tags on miraglobal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 May 2018 10:56:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 May 2018 07:22:07 +0000</lastBuildDate>
     
 	<atom:link href="https://miraglobal.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>https://miraglobal.com/tags/blog/</link>
+      <pubDate>Thu, 17 May 2018 07:22:07 +0000</pubDate>
+      
+      <guid>https://miraglobal.com/tags/blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Opensource</title>
@@ -26,6 +35,15 @@
       <pubDate>Mon, 14 May 2018 10:56:21 +0000</pubDate>
       
       <guid>https://miraglobal.com/tags/references/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story</title>
+      <link>https://miraglobal.com/tags/story/</link>
+      <pubDate>Thu, 17 May 2018 07:22:07 +0000</pubDate>
+      
+      <guid>https://miraglobal.com/tags/story/</guid>
       <description></description>
     </item>
     
