@@ -6,10 +6,19 @@
     <description>Recent content on miraglobal.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 May 2018 19:21:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 May 2018 10:26:09 +0000</lastBuildDate>
     
 	<atom:link href="https://miraglobal.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Map</title>
+      <link>https://miraglobal.com/post/map/</link>
+      <pubDate>Tue, 22 May 2018 10:26:09 +0000</pubDate>
+      
+      <guid>https://miraglobal.com/post/map/</guid>
+      <description>Map showing regions that have implemented or tried to implement a linux OS in schools</description>
+    </item>
     
     <item>
       <title>references</title>
