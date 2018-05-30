@@ -17,7 +17,13 @@
       <pubDate>Wed, 30 May 2018 13:39:52 +0000</pubDate>
       
       <guid>http://miraglobal.com/post/softwares-and-web/</guid>
-      <description></description>
+      <description>These softwares and web services are widely used in makers projects. They are open source, and most don&amp;rsquo;t require signing up.
+Linux Debian Ubuntu an Operative System https://www.ubuntu.com/desktop
+Inkscape a Vector Graphics Editor https://inkscape.org
+FreeCad a parametric 3D modeler https://www.freecadweb.org
+Fritzing an Electronic Design Automation http://fritzing.org/
+Saas Websites Statics websites with Hugo https://gohugo.io/ and a GUI third party service https://app.forestry.io
+Hugo on PC, upload files on Github, get Github files from Forestry, manage web on forestry push changes on github, link github to custom domain</description>
     </item>
     
     <item>
