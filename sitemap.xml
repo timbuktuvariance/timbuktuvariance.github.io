@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://miraglobal.com/post/iot/</loc>
+    <lastmod>2018-05-31T16:03:33+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://miraglobal.com/post/robotics-and-hardware/</loc>
     <lastmod>2018-05-31T16:00:26+00:00</lastmod>
   </url>
@@ -38,7 +43,7 @@
   
   <url>
     <loc>http://miraglobal.com/post/</loc>
-    <lastmod>2018-05-31T16:00:26+00:00</lastmod>
+    <lastmod>2018-05-31T16:03:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -49,7 +54,7 @@
   
   <url>
     <loc>http://miraglobal.com/</loc>
-    <lastmod>2018-05-31T16:00:26+00:00</lastmod>
+    <lastmod>2018-05-31T16:03:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,24 @@
     <description>Recent content in Posts on miraglobal.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 May 2018 16:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 16:03:33 +0000</lastBuildDate>
     
 	<atom:link href="http://miraglobal.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IoT</title>
+      <link>http://miraglobal.com/post/iot/</link>
+      <pubDate>Thu, 31 May 2018 16:03:33 +0000</pubDate>
+      
+      <guid>http://miraglobal.com/post/iot/</guid>
+      <description>Web server - with temperature readings web page
+Install raspbian with etcher - enable ssh
+App design cloudhttp://www.thingstud.io/
+https://thingspeak.com/
+Control pi over internet without opening ports
+https://www.dataplicity.com</description>
+    </item>
     
     <item>
       <title>Robotics and Hardware</title>
