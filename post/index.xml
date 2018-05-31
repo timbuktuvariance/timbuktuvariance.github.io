@@ -50,8 +50,7 @@ https://www.dataplicity.com</description>
       <pubDate>Thu, 31 May 2018 16:00:26 +0000</pubDate>
       
       <guid>http://miraglobal.com/post/robotics-and-hardware/</guid>
-      <description>H
-ardware, electronics, robotics
+      <description>Hardware, electronics, robotics
 Latest trends in Robotics and hardware
 Arduino
 Arduino flight /Arduino arm
@@ -68,7 +67,8 @@ adafruit
 robot PLEN, PLEN2
 https://farmbot.io/
 http://ardupilot.org/ardupilot/index.html
-blueROV</description>
+blueROV
+line follower: POLOLU-961 QTR-8RC Reflectance Sensor Arraylanced</description>
     </item>
     
     <item>
