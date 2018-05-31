@@ -6,10 +6,37 @@
     <description>Recent content on miraglobal.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 May 2018 13:59:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 16:00:26 +0000</lastBuildDate>
     
 	<atom:link href="http://miraglobal.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Robotics and Hardware</title>
+      <link>http://miraglobal.com/post/robotics-and-hardware/</link>
+      <pubDate>Thu, 31 May 2018 16:00:26 +0000</pubDate>
+      
+      <guid>http://miraglobal.com/post/robotics-and-hardware/</guid>
+      <description>H
+ardware, electronics, robotics
+Latest trends in Robotics and hardware
+Arduino
+Arduino flight /Arduino arm
+Raspberry pi / Kodi - retropie
+Mearm / Uarm / Meped
+Ethernet w5500 / Wireless esp8266 / Bluetooth hc06 / Ble hm10
+Raspberry pi with temperature sensorand IoT (link)
+this project works with arduino combined with led display (link)
+with bluetooth (link)
+backlite keyboard
+oled monocolor 1.8´
+tft
+adafruit
+robot PLEN, PLEN2
+https://farmbot.io/
+http://ardupilot.org/ardupilot/index.html
+blueROV</description>
+    </item>
     
     <item>
       <title>materials and links</title>
