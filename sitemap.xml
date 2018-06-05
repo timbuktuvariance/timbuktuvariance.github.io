@@ -38,12 +38,12 @@
   </url>
   
   <url>
-    <loc>http://miraglobal.com/categories/</loc>
-    <priority>0</priority>
+    <loc>http://miraglobal.com/contact/</loc>
   </url>
   
   <url>
-    <loc>http://miraglobal.com/contact/</loc>
+    <loc>http://miraglobal.com/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
