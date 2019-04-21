@@ -33,7 +33,11 @@ Install raspbian with etcher - enable ssh
 App design cloudhttp://www.thingstud.io/
 https://thingspeak.com/
 Control pi over internet without opening ports
-https://www.dataplicity.com</description>
+https://www.dataplicity.com
+other cloud services:
+https://blynk.io/
+https://dweet.io/
+https://lenuage.io/</description>
     </item>
     
     <item>
