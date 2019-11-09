@@ -120,5 +120,17 @@ Upload code directly from web based Arduino editor IDE https://create.</descript
       <description>Map showing regions, countries or single schools that have implemented or tried to implement a Linux OS in schools:</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://miraglobal.com/post/weatherstation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://miraglobal.com/post/weatherstation/</guid>
+      <description>Weather station
+Esp32
+and thingspeak
+https://www.hackster.io/Tiobel/esp32-solar-weather-station-bf9c23</description>
+    </item>
+    
   </channel>
 </rss>
