@@ -32,6 +32,7 @@ Materials - Electronics  Screen (with HDMI or corresponding interface) Raspberry
 Install raspbian with etcher - enable ssh
 App design cloudhttp://www.thingstud.io/
 https://thingspeak.com/
+https://www.hackster.io/Tiobel/esp32-solar-weather-station-bf9c23
 Control pi over internet without opening ports
 https://www.dataplicity.com
 other cloud services:
